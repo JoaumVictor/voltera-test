@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "$static": ["../src/static"],
+      "$static/*": ["../src/static/*"]
+    }
+  }
+}
